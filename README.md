@@ -1,3 +1,3 @@
-# Mon Projet
+# introduction Git project
 
-C'est le projet de l'année
+School project - learning git
